@@ -37,5 +37,5 @@ Computer Science at Politécnico Jaime Isaza Cadavid (in progress).
 ## 📫 Contact
 
 - Portfolio: [brahian-dev.vercel.app](https://brahian-dev.vercel.app)
-- LinkedIn: [linkedin.com/in/brahian-toro-867890220]
+- LinkedIn: [linkedin.com/in/brahian-toro-867890220](https://linkedin.com/in/brahian-toro-867890220)
 - Email: brahiantoro09@gmail.com
